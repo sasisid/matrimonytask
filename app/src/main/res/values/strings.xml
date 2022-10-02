@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Test</string>
+    <string name="app_name">Matrimony</string>
     <string name="add_photo">Add Photos</string>
     <string name="desc">Photos are the first thing members look in your profile.Add multiple photos to get more matches</string>
 </resources>
